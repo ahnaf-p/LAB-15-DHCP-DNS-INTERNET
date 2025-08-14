@@ -10,13 +10,13 @@ Kamis 14 Agustus 2025
 ![dasd](addresses.PNG)  
   3. Setup DHCP Server untuk membagikan IP ke client secara otomatis.  
 ![wasd](server.PNG)  
-  4. Setting DNS, masukan DNS google.  
-![qwerty](beress.PNG)  
-  5. Tambahkan Firewall NAT agar client bisa mengakses ke internet.  
-![sdfs](dns.PNG)  
-  6. Pindah ke PC Client dan jangan lupa untuk setting IP nya jadi obtain auto.  
-![djas](api.PNG)  
-  7. Setelah selesai, sekarang cek ke PC client, apahak sudah dapat IP.  
+![setup](beress.PNG)  
+  5. Setting DNS, masukan DNS google.  
+![qwerty](dns.PNG)  
+  6. Tambahkan Firewall NAT agar client bisa mengakses ke internet.  
+![sdfs](api.PNG)  
+  7. Pindah ke PC Client dan jangan lupa untuk setting IP nya jadi obtain auto.  
+  8. Setelah selesai, sekarang cek ke PC client, apahak sudah dapat IP.  
      PC1:  
      ![dkaiojasd](CLIENTTT.PNG)  
      PC2:  

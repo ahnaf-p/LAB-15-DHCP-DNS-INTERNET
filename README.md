@@ -18,9 +18,9 @@ Kamis 14 Agustus 2025
 ![djas](api.PNG)  
   7. Cek apakah mendapat IP, di PC client.  
      PC1:  
-     ![dkaiojasd](CLIENTTT.PNG)
-     PC2:
-     ![fnsushe](ahnafcb.PNG)
+     ![dkaiojasd](CLIENTTT.PNG)  
+     PC2:  
+     ![fnsushe](ahnafcb.PNG)  
 
 
 # Kesimpulan

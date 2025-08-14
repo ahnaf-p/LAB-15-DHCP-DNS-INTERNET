@@ -16,7 +16,7 @@ Kamis 14 Agustus 2025
 ![sdfs](dns.PNG)  
   6. Pindah ke PC Client dan jangan lupa untuk setting IP nya jadi obtain auto.  
 ![djas](api.PNG)  
-  7. Cek apakah mendapat IP, di PC client.  
+  7. Setelah selesai, sekarang cek ke PC client, apahak sudah dapat IP.  
      PC1:  
      ![dkaiojasd](CLIENTTT.PNG)  
      PC2:  
